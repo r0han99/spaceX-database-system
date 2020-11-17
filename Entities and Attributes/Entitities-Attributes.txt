@@ -1,0 +1,13 @@
+Entity - Payloads
+
+Attributes - (payload_id, name, type, reused, manufacturers, mass_kg, mass_;b, orbit, reference_system, regime)
+
+
+Entity - rockets
+
+Attributes - (rocket_id, name, type, active, country, company, mass_kg, stages, boosters, cost_per_launch, landing_legs)
+
+Entity  - Ship 
+Attributes - (ship_id, name, type, active, roles, mass_kg, mass_lb, year_built, home_port)
+
+
