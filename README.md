@@ -15,7 +15,7 @@ _"A **Web based Application** with a **Core intention** of simulating the conven
 
 ## Abstract
 
-Observing the Latest advancements In the commercial spaceflight, SpaceX has travelled a long way through the line to be the first to get certified by NASA for statistically being the safest option to deliver a payload and Crew to the International Space Station. It is indeed intriguing to look through the timeline of SpaceX from the inception to the anticipation for future Launches. This Web Application administrates/simulates the Database informatics, holding the Historical data of SpaceX and also the information about any recent future launches.
+Observing the Latest advancements In the commercial spaceflight, SpaceX has travelled a long way through the line to be the first to get certified by NASA for statistically being the safest option to deliver a payload and Crew to the International Space Station. It is indeed intriguing to look through the timeline of SpaceX from the inception to any anticipation for future Launches. This Web Application administrates/simulates the Database informatics, holding the Historical data of SpaceX and also the information about any recent future launches.
 
 ## Database Composition 
 
