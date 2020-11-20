@@ -21,8 +21,8 @@ Entity- launches:
 Attributes- (launch_id, launch_id, date, rocket_id, launchpad_id, success, failures, ships, capsules, payloads, cores, fairings_reused, fairings_recovery_attempts, fairings_recovered)
 
 Entity- launchpads:
-
-Attributes- (launchpad_id,name,full_name,status,locality,timezone,region,latitude,longitude)
+ 
+Attributes- (launchpad_id, name, full_name, status, locality, timezone, region, latitude, longitude)
 
 
 
