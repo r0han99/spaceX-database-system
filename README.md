@@ -21,8 +21,7 @@ Observing the Latest advancements In the commercial spaceflight, SpaceX has trav
 
 *Tables/Entities*
 - ships 
-- rockets 
-- capsules 
+- rockets  
 - launches 
 - launchpads 
 - payloads 
