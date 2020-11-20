@@ -1,0 +1,5 @@
+Work-Log
+
+- [17-11-2020] - created the project draft and organised the repository 
+- [17-11-2020] - [ Lab ] jot down the entities and attributes of the tables 
+- [20-11-2020] - cleaned Data and eliminated the redundancies 
