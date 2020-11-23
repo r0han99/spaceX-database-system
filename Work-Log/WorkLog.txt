@@ -5,3 +5,5 @@ Work-Log
 - [20-11-2020] - cleaned Data and eliminated the redundancies 
 - [21-11-2020] - Added Requirement Analysis
 - [23-11-2020] - Assigned ER diagrams to the Team
+- [23-11-2020] - Edited Requirement Analysis (added cardinalities)
+
