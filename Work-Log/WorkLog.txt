@@ -7,3 +7,4 @@ Work-Log
 - [23-11-2020] - Assigned ER diagrams to the Team
 - [23-11-2020] - Edited Requirement Analysis (added cardinalities)
 - [24-11-2020] - Edited Cardinality between rocket and mission entities
+- [24-11-2020] - Added ER diagram document 
