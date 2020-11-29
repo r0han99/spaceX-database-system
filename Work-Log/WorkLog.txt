@@ -9,3 +9,6 @@ Work-Log
 - [24-11-2020] - Edited Cardinality between rocket and mission entities
 - [24-11-2020] - Added ER diagram document 
 - [24-11-2020] - Deleted Foreign Keys from the ER diagram
+- [24-11-2020] - Conceptual Schema ( payloads, rockets, launchpads ) 
+- [26-11-2020] - conceptual schema ( administrators, drone ships, missions) 
+- [29-11-2020] - added to repo and google sheet 
