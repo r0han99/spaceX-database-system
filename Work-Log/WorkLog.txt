@@ -13,3 +13,5 @@ Work-Log
 - [26-11-2020] - conceptual schema ( administrators, drone ships, missions) 
 - [29-11-2020] - added to repo and google sheet 
 - [30-11-2020] - added Admininstrator's entity in the ER diagram 
+- [1-12-2020] - cleaned data and committed to the repo
+
