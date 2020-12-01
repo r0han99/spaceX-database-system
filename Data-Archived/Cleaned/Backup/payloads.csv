@@ -1,7 +1,13 @@
 ,payload_id,name,type,reused,manufacturers,mass_kg,mass_lb,orbit,reference_system,regime
 0,5eb0e4b5b6c3bb0006eeb1e1,FalconSAT-2,Satellite,False,SSTL,20.0,43.0,LEO,geocentric,low-earth
+1,5eb0e4b6b6c3bb0006eeb1e2,DemoSAT,Satellite,False,SpaceX,,,LEO,geocentric,low-earth
+2,5eb0e4b6b6c3bb0006eeb1e3,Trailblazer,Satellite,False,Space Dev,,,LEO,geocentric,low-earth
+3,5eb0e4b6b6c3bb0006eeb1e4,PRESat,Satellite,False,Not Disclosed,,,LEO,geocentric,low-earth
 4,5eb0e4b7b6c3bb0006eeb1e5,RatSat,Satellite,False,SpaceX,165.0,363.0,LEO,geocentric,low-earth
 5,5eb0e4b7b6c3bb0006eeb1e6,RazakSAT,Satellite,False,Satrec,200.0,440.0,LEO,geocentric,low-earth
+6,5eb0e4b7b6c3bb0006eeb1e7,Dragon Qualification Unit,Dragon Boilerplate,False,SpaceX,,,LEO,geocentric,low-earth
+7,5eb0e4b9b6c3bb0006eeb1e8,COTS Demo Flight 1,Dragon 1.0,False,SpaceX,,,LEO,geocentric,low-earth
+8,5eb0e4b9b6c3bb0006eeb1e9,Cubesats,Satellite,False,Not Disclosed,,,LEO,geocentric,low-earth
 9,5eb0e4bab6c3bb0006eeb1ea,COTS Demo Flight 2,Dragon 1.0,False,SpaceX,525.0,1157.0,LEO,geocentric,low-earth
 10,5eb0e4bab6c3bb0006eeb1eb,CRS-1,Dragon 1.0,False,SpaceX,400.0,881.0,ISS,geocentric,low-earth
 11,5eb0e4bab6c3bb0006eeb1ec,Orbcomm-OG2,Dragon 1.0,False,Not Disclosed,400.0,881.0,LEO,geocentric,low-earth
@@ -36,6 +42,7 @@
 40,5eb0e4c3b6c3bb0006eeb209,CRS-10,Dragon 1.1,False,SpaceX,2490.0,5490.0,ISS,geocentric,low-earth
 41,5eb0e4c3b6c3bb0006eeb20a,EchoStar 23,Satellite,False,Airbus Defence and Space,5600.0,12399.0,GTO,geocentric,geostationary
 42,5eb0e4c3b6c3bb0006eeb20b,SES-10,Satellite,False,Airbus Defence and Space,5300.0,11700.0,GTO,geocentric,geostationary
+43,5eb0e4c3b6c3bb0006eeb20c,NROL-76,Satellite,False,Boeing,,,LEO,geocentric,low-earth
 44,5eb0e4c3b6c3bb0006eeb20d,Inmarsat-5 F4,Satellite,False,Boeing,6070.0,13380.0,GTO,geocentric,geostationary
 45,5eb0e4c4b6c3bb0006eeb20e,CRS-11,Dragon 1.1,True,SpaceX,2708.0,5970.0,ISS,geocentric,low-earth
 46,5eb0e4c4b6c3bb0006eeb20f,BulgariaSat-1,Satellite,False,SSL,3669.0,8089.0,GTO,geocentric,geostationary
@@ -49,7 +56,9 @@
 54,5eb0e4c5b6c3bb0006eeb217,KoreaSat 5A,Satellite,False,Thales Alenia Space,3700.0,8157.104,GTO,geocentric,geostationary
 55,5eb0e4c5b6c3bb0006eeb218,CRS-13,Dragon 1.1,True,SpaceX,2205.0,4861.2,ISS,geocentric,low-earth
 56,5eb0e4c6b6c3bb0006eeb219,Iridium NEXT 4,Satellite,False,Thales Alenia Space,9600.0,21164.38,PO,geocentric,low-earth
+57,5eb0e4c6b6c3bb0006eeb21a,ZUMA,Satellite,False,Northrop Grumman,,,LEO,geocentric,low-earth
 58,5eb0e4c6b6c3bb0006eeb21b,GovSat-1,Satellite,False,Orbital ATK,4230.0,9325.6,GTO,geocentric,geostationary
+59,5eb0e4c6b6c3bb0006eeb21c,Tesla Roadster,Satellite,False,Tesla,1350.0,2976.2,HCO,heliocentric,
 60,5eb0e4c6b6c3bb0006eeb21d,Paz,Satellite,False,Airbus Defence and Space,1350.0,2976.2,SSO,geocentric,sun-synchronous
 61,5eb0e4c6b6c3bb0006eeb21e,Tintin A & B,Satellite,False,SpaceX,800.0,1763.7,SSO,geocentric,low-earth
 62,5eb0e4c7b6c3bb0006eeb21f,Hispasat 30W-6,Satellite,False,SSL,6092.0,13430.6,GTO,geocentric,geostationary
@@ -68,7 +77,7 @@
 75,5eb0e4c9b6c3bb0006eeb22c,SAOCOM 1A,Satellite,False,INVAP,2800.0,6172.94,SSO,geocentric,sun-synchronous
 76,5eb0e4c9b6c3bb0006eeb22d,Es’hail 2,Satellite,False,Mitsubishi Electric,3000.0,6613.868,GTO,geocentric,geostationary
 77,5eb0e4c9b6c3bb0006eeb22e,SSO-A,Satellite,False,"Spaceflight Industries, Inc",4000.0,8818.49,SSO,geocentric,sun-synchronous
-78,5eb0e4cab6c3bb0006eeb22f,CRS-16,Dragon 1.1,True,SpaceX,2573.0,5672.4940000000015,ISS,geocentric,low-earth
+78,5eb0e4cab6c3bb0006eeb22f,CRS-16,Dragon 1.1,True,SpaceX,2573.0,5672.494000000001,ISS,geocentric,low-earth
 79,5eb0e4cab6c3bb0006eeb230,GPS III SV01,Satellite,False,Lockheed Martin,4400.0,9700.34,MEO,geocentric,semi-synchronous
 80,5eb0e4cab6c3bb0006eeb231,Iridium NEXT 8,Satellite,False,Thales Alenia Space,9600.0,21164.38,PO,geocentric,low-earth
 81,5eb0e4cab6c3bb0006eeb232,Nusantara Satu (PSN-6),Satellite,False,SSL,5000.0,11023.11,GTO,geocentric,geostationary
@@ -101,16 +110,24 @@
 108,5eb0e4cfb6c3bb0006eeb24d,CRS-19,Dragon 1.1,True,SpaceX,5000.0,11023.0,ISS,geocentric,low-earth
 109,5eb0e4cfb6c3bb0006eeb24e,JCSat 18 / Kacific 1,Satellite,False,Boeing Satellite Systems,6800.0,14991.43,GTO,geocentric,geostationary
 110,5eb0e4cfb6c3bb0006eeb24f,Starlink 2,Satellite,False,SpaceX,15400.0,33951.2,VLEO,geocentric,very-low-earth
+111,5eb0e4d0b6c3bb0006eeb250,Crew Dragon In Flight Abort Test,Crew Dragon,False,SpaceX,,,SO,geocentric,sub-orbital
 112,5eb0e4d0b6c3bb0006eeb251,Starlink 3,Satellite,False,SpaceX,15600.0,34392.113,VLEO,geocentric,very-low-earth
 113,5eb0e4d0b6c3bb0006eeb252,Starlink 4,Satellite,False,SpaceX,15400.0,33951.2,VLEO,geocentric,very-low-earth
-114,5eb0e4d0b6c3bb0006eeb253,CRS-20,Dragon 1.1,True,SpaceX,1977.0,4358.539000000002,ISS,geocentric,low-earth
+114,5eb0e4d0b6c3bb0006eeb253,CRS-20,Dragon 1.1,True,SpaceX,1977.0,4358.539000000001,ISS,geocentric,low-earth
 115,5eb0e4d0b6c3bb0006eeb254,Starlink 5,Satellite,False,SpaceX,15600.0,34392.113,VLEO,geocentric,very-low-earth
 116,5eb0e4d1b6c3bb0006eeb255,Starlink 6,Satellite,False,SpaceX,15400.0,33951.2,VLEO,geocentric,very-low-earth
 117,5eb0e4d1b6c3bb0006eeb256,Starlink 7,Satellite,False,SpaceX,15400.0,33951.2,VLEO,geocentric,very-low-earth
 118,5eb0e4d1b6c3bb0006eeb257,CCtCap Demo Mission 2,Crew Dragon,False,SpaceX,9525.0,20999.03,ISS,geocentric,low-earth
 119,5eb0e4d1b6c3bb0006eeb258,Starlink 8,Satellite,False,SpaceX,15400.0,33951.2,VLEO,geocentric,very-low-earth
-120,5eb0e4d1b6c3bb0006eeb259,SAOCOM 1B,Satellite,False,Not Disclosed,1600.0,3527.396,SSO,geocentric,sun-synchronous
-124,5eb0e4d2b6c3bb0006eeb25e,GPS III SV04 (Sacagawea),Satellite,False,Lockheed Martin,3681.0,8115.2159999999985,MEO,geocentric,semi-synchronous
+120,5eb0e4d1b6c3bb0006eeb259,SAOCOM 1B,Satellite,False,Not Disclosed,1600.0,3527.3959999999997,SSO,geocentric,sun-synchronous
+121,5eb0e4d2b6c3bb0006eeb25b,ANASIS-II,Satellite,False,South Korea,,,GEO,geocentric,geosynchronous
+122,5eb0e4d2b6c3bb0006eeb25c,GPS III SV03 (Columbus),Satellite,False,Lockheed Martin,3880.0,8553.94,MEO,,
+123,5eb0e4d2b6c3bb0006eeb25d,SXM-7,Satellite,False,SSL,,,GTO,geocentric,geostationary
+124,5eb0e4d2b6c3bb0006eeb25e,GPS III SV04 (Sacagawea),Satellite,False,Lockheed Martin,3681.0,8115.215999999999,MEO,geocentric,semi-synchronous
+125,5eb0e4d2b6c3bb0006eeb25f,Crew-1,Crew Dragon,False,SpaceX,,,ISS,geocentric,low-earth
+126,5eb0e4d2b6c3bb0006eeb261,GPS III SV05,Satellite,False,Lockheed Martin,,,MEO,geocentric,semi-synchronous
+127,5eb0e4d3b6c3bb0006eeb262,CRS-21,Dragon 1.1,True,SpaceX,,,ISS,geocentric,low-earth
+128,5eb0e4d3b6c3bb0006eeb264,Turksat 5A,Satellite,False,Airbus Defence and Space,,,GTO,geocentric,geostationary
 129,5ed9858b1f30554030d45c3e,Starlink-9,Satellite,False,SpaceX,15079.0,33245.7,VLEO,geocentric,very-low-earth
 130,5ed9859f1f30554030d45c3f,Starlink 10,Satellite,False,SpaceX,15400.0,33951.2,VLEO,geocentric,very-low-earth
 131,5ed9867c1f30554030d45c40,Sentinel-6 Michael Freilich,Satellite,False,Not Disclosed,1440.0,3174.657,PO,geocentric,low-earth
@@ -119,3 +136,4 @@
 134,5ef6a48e0059c33cee4a829f,Starlink-12,Satellite,False,SpaceX,15400.0,33951.2,VLEO,geocentric,very-low-earth
 135,5ef6a4d50059c33cee4a82a1,Starlink-13,Satellite,False,SpaceX,15400.0,33951.2,VLEO,geocentric,very-low-earth
 136,5ef6a4ea0059c33cee4a82a2,Starlink-14,Satellite,False,SpaceX,15400.0,33951.2,VLEO,geocentric,very-low-earth
+137,5f839ac7818d8b59f5740d48,NROL-108,Satellite,False,Not Disclosed,,,,geocentric,low-earth
