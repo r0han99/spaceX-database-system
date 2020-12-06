@@ -40,3 +40,7 @@ Observing the Latest advancements In the commercial spaceflight, SpaceX has trav
 - [x] Requirement Analysis
 - [x] Conceptual Schema
 - [x] Logical Schema
+
+***
+
+Note, Though the data in a general sense is from the actual historical events of spacex, it is been shorten down by deleting redundancies and also a few samples from the data; 
