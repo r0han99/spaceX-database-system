@@ -1,7 +1,8 @@
 USE `SpaceX-DB`;
 
 
-CREATE TABLE Administrators (admin_id VARCHAR(12) NOT NULL PRIMARY KEY, name VARCHAR(25),password VARCHAR(20) CHECK ( LENGTH(password) > 8 ), access_level VARCHAR(10));
+CREATE TABLE Administrators (admin_id VARCHAR(12) NOT NULL PRIMARY KEY, 
+name VARCHAR(25),password VARCHAR(20) CHECK ( LENGTH(password) > 8 ), access_level VARCHAR(10));
 
 INSERT INTO Administrators VALUES ( '121810303009' ,'Rohan', '121810303009', 'root' );
 INSERT INTO Administrators VALUES ( '121810303033' ,'Hari Priya', '121810303033', 'standard' );
