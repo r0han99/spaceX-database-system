@@ -40,6 +40,7 @@ Observing the Latest advancements In the commercial spaceflight, SpaceX has trav
 - [x] Requirement Analysis
 - [x] Conceptual Schema
 - [x] Logical Schema
+- [x] Final Project Draft
 
 ***
 
