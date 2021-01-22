@@ -9,7 +9,7 @@
 
 *** 
 
-_"A **Web based Application** with a **Core intention** of simulating the conventional Usage of a **Database systems** commercially, As well as the **process** that goes into establishing one"_
+_"A **Comprehensive** Approach of simulating the conventional Usage of a **Database systems**, As well as the **process** that goes into establishing one"_
 
 *** 
 
